@@ -4,12 +4,10 @@ A simple tool to stack transparent sprite parts on top of each other to get the 
 
 ## Features
 
-* Drag and drop interface for importing images easily.
-* Simple rearrangement and organization of images with a reactive preview.
-* Preview area to see the final picture.
-* Export functionality for the combined images.
-
-![showcase](resources/showcase.png)
+- Drag and drop interface for importing images easily.
+- Simple rearrangement and organization of images with a reactive preview.
+- Preview area to see the final picture.
+- Export functionality for the combined images.
 
 ## Installation
 
@@ -23,8 +21,8 @@ A simple tool to stack transparent sprite parts on top of each other to get the 
 
 Before you begin, ensure you have met the following requirements:
 
-* Python 3.10 or higher installed.
-* Access to terminal or command prompt.
+- Python 3.10 or higher installed.
+- Access to terminal or command prompt.
 
 Once you fulfill all of them, you can start with the installation.
 
