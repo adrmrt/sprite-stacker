@@ -1,0 +1,9 @@
+[project]
+name = "sprite-stacker"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow==10.3.0",
+    "windnd==1.0.7",
+    "pyinstaller==6.3.0",
+]
