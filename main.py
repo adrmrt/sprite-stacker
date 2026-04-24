@@ -1,6 +1,5 @@
-def main():
-    print("Hello from sprite-stacker!")
-
+from src.app import SpriteStacker
 
 if __name__ == "__main__":
-    main()
+    app = SpriteStacker()
+    app.mainloop()

@@ -23,7 +23,7 @@ jobs:
         run: uv sync
 
       - name: Build Executable
-        run: uv run pyinstaller --onefile --name sprite-stacker src/main.py
+        run: uv run pyinstaller --onefile --name sprite-stacker main.py
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v6
